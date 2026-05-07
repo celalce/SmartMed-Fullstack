@@ -36,5 +36,6 @@ Seamlessly update patient records and medical histories to ensure the most curre
 ## 📩 Contact for Collaboration
 If you are interested in the technical implementation, source code access, or potential collaborations, feel free to reach out.
 
-**Developer:** Celal Albayrak  e-mail: celalce25@hotmail.com
+**Developer:** Celal Albayrak  
+**e-mail:** celalce25@hotmail.com
 **Focus:** IoT | Full-Stack Development | Health-Tech Solutions
